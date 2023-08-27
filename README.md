@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drmjunaid
 - 👀 I’m interested in writing codes for Physics problems
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning ML and Python
 - 💞️ I’m looking to collaborate on solving physics problems
 - 📫 How to reach me just text
 
